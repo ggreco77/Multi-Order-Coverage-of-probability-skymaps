@@ -1,4 +1,1 @@
 mocpy
-astropy
-json
-ipywidgets
