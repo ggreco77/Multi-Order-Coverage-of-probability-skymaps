@@ -1,3 +1,4 @@
 mocpy
 astropy
+astropy.vo
 ipywidgets
