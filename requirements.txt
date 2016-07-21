@@ -1,3 +1,4 @@
 healpy
 mocpy
 astropy
+astropy.vo
