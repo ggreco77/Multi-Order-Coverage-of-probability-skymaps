@@ -1,1 +1,3 @@
+healpy
 mocpy
+astropy
