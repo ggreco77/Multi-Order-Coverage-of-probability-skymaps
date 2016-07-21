@@ -1,5 +1,4 @@
 mocpy
 astropy
-astropy.vo
 json
 ipywidgets
