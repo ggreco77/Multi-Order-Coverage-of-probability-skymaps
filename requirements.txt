@@ -3,4 +3,5 @@ mocpy
 astropy
 PyVO
 Astroquery
+astropy.vo.samp
 
